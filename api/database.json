@@ -1,0 +1,56 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 3,
+      "plumberId": 1,
+      "date_created": "11/9/2022",
+      "id": 1
+    },
+    {
+      "requestId": 4,
+      "plumberId": 1,
+      "date_created": "11/9/2022",
+      "id": 2
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "description": "Leaky bathtub faucet",
+      "address": "1000 Infinity Way",
+      "budget": "900",
+      "neededBy": "2023-05-14",
+      "id": 2
+    },
+    {
+      "description": "Kitchen sink leaks",
+      "address": "1100 Forever Ave",
+      "budget": "1200",
+      "neededBy": "2022-12-05",
+      "id": 3
+    },
+    {
+      "description": "Shower head has no pressure",
+      "address": "345 Last Part Rd.",
+      "budget": "300",
+      "neededBy": "2022-12-25",
+      "id": 4
+    }
+  ]
+}
